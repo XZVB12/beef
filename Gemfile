@@ -81,6 +81,9 @@ group :test do
     gem 'rest-client', '>= 2.0.1'
     gem 'irb'
     gem 'pry-byebug'
+    gem "websocket-client-simple", "~> 0.3.0"
 end
 
 source 'https://rubygems.org'
+
+
